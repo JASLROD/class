@@ -22,9 +22,9 @@ public class Prime{
         
         isPrime = testForPrime(number);
         if (isPrime)
-        System.out.println(number + "is prime.");
+        System.out.println(number + " is prime.");
         else
-        System.out.println(number + "is not prime.");
+        System.out.println(number + " is not prime.");
 
         //System.out.print("Enter yes to test another number, no to quit");//Display message to test another number, something like 
         //set playAgain to user choice    
